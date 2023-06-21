@@ -262,6 +262,5 @@ class _BMI_RechnerState extends State<BMI_Rechner> {
         ),
       ),
     );
-
   }
 }
